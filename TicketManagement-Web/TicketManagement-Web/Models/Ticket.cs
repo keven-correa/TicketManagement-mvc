@@ -16,6 +16,7 @@ namespace TicketManagement_Web.Models.Entities
         public string Title { get; set; }
 
         [MaxLength(400)]
+        [DataType(DataType.MultilineText)]
         public string Description { get; set; }
 
         [Required]

@@ -31,7 +31,8 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
+@foreach (var item in Model)
+{
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Title)
@@ -43,7 +44,23 @@
                 @Html.DisplayFor(modelItem => item.Created)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.State)
+                @{
+                    if (item.State == TicketManagement_Web.Models.Enums.TicketsState.Open)
+                    {
+                        <h5> <span class="badge badge-pill badge-primary">@Html.DisplayFor(modelItem => item.State)</span></h5>
+                    }
+                    else if (item.State == TicketManagement_Web.Models.Enums.TicketsState.Closed)
+                    {
+                        <h5> <span class="badge badge-pill badge-danger">@Html.DisplayFor(modelItem => item.State)</span></h5>
+                    }
+                    else if (item.State == TicketManagement_Web.Models.Enums.TicketsState.Withdrawn)
+                    {
+                        <h5> <span class="badge badge-pill badge-secondary">@Html.DisplayFor(modelItem => item.State)</span></h5>
+
+                    }
+                }
+
+
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.PriorityLevel)

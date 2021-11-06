@@ -9,6 +9,6 @@ namespace TicketManagement_Web.Models.Enums
     {
         Low,
         Medium,
-        Higth
+        High
     }
 }
