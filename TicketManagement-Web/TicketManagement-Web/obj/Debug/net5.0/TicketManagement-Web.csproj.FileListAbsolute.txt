@@ -365,7 +365,6 @@ C:\Users\Keven\source\repos\TicketManagement-mvc\TicketManagement-Web\TicketMana
 C:\Users\Keven\source\repos\TicketManagement-mvc\TicketManagement-Web\TicketManagement-Web\obj\Debug\net5.0\TicketManagement-Web.RazorAssemblyInfo.cache
 C:\Users\Keven\source\repos\TicketManagement-mvc\TicketManagement-Web\TicketManagement-Web\obj\Debug\net5.0\TicketManagement-Web.RazorAssemblyInfo.cs
 C:\Users\Keven\source\repos\TicketManagement-mvc\TicketManagement-Web\TicketManagement-Web\obj\Debug\net5.0\staticwebassets\TicketManagement-Web.StaticWebAssets.Manifest.cache
-C:\Users\Keven\source\repos\TicketManagement-mvc\TicketManagement-Web\TicketManagement-Web\obj\Debug\net5.0\staticwebassets\TicketManagement-Web.StaticWebAssets.xml
 C:\Users\Keven\source\repos\TicketManagement-mvc\TicketManagement-Web\TicketManagement-Web\obj\Debug\net5.0\scopedcss\bundle\TicketManagement-Web.styles.css
 C:\Users\Keven\source\repos\TicketManagement-mvc\TicketManagement-Web\TicketManagement-Web\obj\Debug\net5.0\TicketManagement-Web.TagHelpers.input.cache
 C:\Users\Keven\source\repos\TicketManagement-mvc\TicketManagement-Web\TicketManagement-Web\obj\Debug\net5.0\TicketManagement-Web.TagHelpers.output.cache
@@ -434,3 +433,4 @@ C:\Users\Keven\source\repos\TicketManagement-mvc\TicketManagement-Web\TicketMana
 C:\Users\Keven\source\repos\TicketManagement-mvc\TicketManagement-Web\TicketManagement-Web\obj\Debug\net5.0\Razor\Views\Tickets\Details.cshtml.g.cs
 C:\Users\Keven\source\repos\TicketManagement-mvc\TicketManagement-Web\TicketManagement-Web\obj\Debug\net5.0\Razor\Views\Tickets\Edit.cshtml.g.cs
 C:\Users\Keven\source\repos\TicketManagement-mvc\TicketManagement-Web\TicketManagement-Web\obj\Debug\net5.0\Razor\Views\Tickets\Index.cshtml.g.cs
+C:\Users\Keven\Source\Repos\TicketManagement-mvc\TicketManagement-Web\TicketManagement-Web\bin\Debug\net5.0\TicketManagement-Web.StaticWebAssets.xml
